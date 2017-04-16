@@ -3,3 +3,10 @@
 
 # Packaging
 .cask
+/GnuGlobal
+
+\.bashrc
+
+*.patch
+
+\#*
